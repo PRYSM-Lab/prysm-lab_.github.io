@@ -6,7 +6,7 @@ subtitle: PRocess & energY Systems optiMization Lab @UCL <a href='#'>Affiliation
 
 profile:
   align: right
-  image: PrysmLogo
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Welcome to the **PR**ocess & energ**Y** **S**ystems opti**M**ization (**PRYSM**) Lab at UCL. Our research focuses on computational methods for multiscale systems under uncertainty which arise in the optimization of challenging problems related to chemical, process & energy systems.
+Welcome to the **PR**ocess & energ**Y** **S**ystems opti**M**ization (**PRYSM**) Lab at [UCL](https://www.ucl.ac.uk/chemical-engineering). Our research focuses on computational methods for multiscale systems under uncertainty which arise in the optimization of challenging problems related to chemical, process & energy systems.
 
 HELO HELO Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
