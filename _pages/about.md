@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PRocess & energY Systems optiMization Lab @UCL <a href='#'>Affiliations</a>. 
-
+subtitle:  PRocess & energY Systems optiMization Lab @UCL
 profile:
   align: right
   image: prof_pic.jpg
