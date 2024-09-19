@@ -1,0 +1,10 @@
+# Efthymios Charalambous 
+
+* Joined in October 2024
+
+* MEng, Chemical Engineering, Department of Chemical Engineering, UCL, UK (2021)
+
+* **Research focus**: Digital twins, Data-driven optimization, Waste-to-X processes. 
+
+* Sponsored by the EPSRC DTP scholarship 2024
+
