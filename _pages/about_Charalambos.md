@@ -2,7 +2,7 @@
 
 * Joined in October 2024
 
-* MEng, Chemical Engineering, Department of Chemical Engineering, UCL, UK (2021)
+* MEng, Chemical Engineering, Department of Chemical Engineering, UCL, UK (2024)
 
 * **Research focus**: Digital twins, Data-driven optimization, Waste-to-X processes. 
 

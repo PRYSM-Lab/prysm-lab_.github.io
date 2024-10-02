@@ -1,10 +1,7 @@
-# Margarita Efthymiadou 
+# Reka Keresztes 
 
-* Joined in June 2021
+* Joined in Oct 2024
 
-* MEng, Chemical Engineering, School of Chemical Engineering, Aristotle University of Thessaloniki, Greece (2021)
+* MEng, Chemical Engineering, Department of Chemical Engineering, UCL, UK (2024)
 
-* **Research focus**: Energy systems infrastructure planning, Decarbonisation pathways for heat, Hydrogen supply chain. 
-
-* Sponsored by the EPSRC grant - [HUMAN](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/T022930/1)
-
+* **Research focus**: Process scheduling, Predective maintenance, Reinforcement Learning. 
