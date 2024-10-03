@@ -302,7 +302,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Charitopoulos]
-  first_name: [Vassilis, M]
+  first_name: [Vassilis M]
 
   style: apa
   locale: en
