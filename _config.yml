@@ -54,7 +54,7 @@ socials_in_search: true
 bib_search: true
 
 # Dimensions
-max_width: 950px
+max_width: 1200px
 
 # TODO: add layout settings (single page vs. multi-page)
 
@@ -302,7 +302,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Charitopoulos]
-  first_name: [Vassilis, M.]
+  first_name: [Vassilis, M]
 
   style: apa
   locale: en
