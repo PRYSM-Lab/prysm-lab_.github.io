@@ -36,8 +36,39 @@ profiles:
     more_info: >
       
   - align: right
-    image: Bouni.jpg
+    image: Bouni.jpeg
     content: about_Bounitsis.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+
+  - align: right
+    image: Reka.png
+    content: about_Reka.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      
+  - align: right
+    image: Hui.jpeg
+    content: about_Yi.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      
+  - align: right
+    image: Shunee.jpeg
+    content: about_Shunee.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+
+
+  - align: right
+    image: Peppe.jpeg
+    content: about_Peppe.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+
+  - align: right
+    image: .jpeg
+    content: about_Qingbo.md
     image_circular: false # crops the image to make it circular
     more_info: >
 ---

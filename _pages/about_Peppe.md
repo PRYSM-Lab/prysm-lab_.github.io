@@ -1,4 +1,4 @@
-# Mr Giuseppe Scelfo 
+# Giuseppe Scelfo 
 
 * Joined in September 2024
 
