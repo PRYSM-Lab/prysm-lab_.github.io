@@ -60,7 +60,7 @@ profiles:
     more_info: >
 
 - align: right
-    image: Reka.png
+    image: Peppe.jpg
     content: about_Reka.md
     image_circular: false # crops the image to make it circular
     more_info: >
