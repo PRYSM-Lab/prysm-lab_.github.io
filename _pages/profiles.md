@@ -40,5 +40,28 @@ profiles:
     content: about_Bounitsis.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      
+
+- align: right
+    image: Shunee.jpeg
+    content: about_Shunee.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+
+- align: right
+    image: Yuhui.jpg
+    content: about_Yi.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+
+- align: right
+    image: Peppe.jpg
+    content: about_Peppe.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+
+- align: right
+    image: Reka.png
+    content: about_Reka.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
 ---
