@@ -59,6 +59,11 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
 
+  - align: right
+    image: Consuelo.png
+    content: about_Consuelo.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
 
   - align: right
     image: Peppe.jpeg
