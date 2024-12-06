@@ -1,27 +1,12 @@
 ---
 layout: profiles
-permalink: /people/
-title: Group members
-description: Group members
+permalink: /PhDstudents/
+title: PhD students
+description: Current PhD students
 nav: false
 nav_order: 7
 
 profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
-  - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
-  - align: right
-    image: Xu.jpg
-    content: about_Xu.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
          
   - align: right
     image: Mina.jpg
@@ -36,12 +21,6 @@ profiles:
     more_info: >
       
   - align: right
-    image: Bouni.jpeg
-    content: about_Bounitsis.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-
-  - align: right
     image: Reka.png
     content: about_Reka.md
     image_circular: false # crops the image to make it circular
@@ -53,12 +32,6 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       
-  - align: right
-    image: Shunee.jpeg
-    content: about_Shunee.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-
   - align: right
     image: Consuelo.png
     content: about_Consuelo.md
@@ -72,8 +45,10 @@ profiles:
     more_info: >
 
   - align: right
-    image: Qingbo.jpeg
-    content: about_Qingbo.md
+    image: Efthymis.jpeg
+    content: about_Efthymis.md
     image_circular: false # crops the image to make it circular
     more_info: >
+
+
 ---

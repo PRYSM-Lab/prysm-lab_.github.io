@@ -1,7 +1,5 @@
-# Georgios Bounitsis 
+# Dr Georgios Bounitsis 
 
-* Joined in Oct 2020
+* Now Senior Software Engineer in Aurora Energy Research (UK) 
 
-* MEng, Chemical Engineering, School of Chemical Engineering, Aristotle University of Thessaloniki, Greece (2021)
-
-* **Research focus**: Data-driven optimization, Stochastic Programming, Ammonia supply chain.
+* **PhD thesis**: Advances in data-driven stochastic programming and application in power system planning.

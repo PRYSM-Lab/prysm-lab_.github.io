@@ -4,7 +4,7 @@
 
 * PhD student, University of Palermo (Italy)
 
-* **Research focus**: process integration for water treatment and seawater desalination 
+* **Research focus**: Process integration for water treatment and seawater desalination 
 
 * Visiting PhD student 
 

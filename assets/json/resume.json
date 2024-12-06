@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "Vassilis M Charitopoulos",
     "label": "Scientist",
     "image": "",
-    "email": "albert@einstein.de",
+    "email": "v.charitopoulos@ucl.ac.uk",
     "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "url": "https://profiles.ucl.ac.uk/54523-vassilis-charitopoulos",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "UCL Roberts Building",
+      "postalCode": "WC1E 7JE",
+      "city": "London",
+      "countryCode": "UK",
+      "region": "England"
     },
     "profiles": [
       {
@@ -24,13 +24,22 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
+      "name": "Department of Chemical Engineering, UCL",
+      "position": "Lecturer (Assist. Prof.) in Process Systems Engineering",
+      "url": "https://profiles.ucl.ac.uk/54523-vassilis-charitopoulos",
+      "startDate": "09/2019",
+      "endDate": "-",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": ["Relativity"]
+    },
+    {
+      "name": "Cambridge Judge Business School, University of Cambridge",
+      "position": "Research Associate in Energy Decarbonisation",
+      "url": "https://profiles.ucl.ac.uk/54523-vassilis-charitopoulos",
+      "startDate": "09/2018",
+      "endDate": "09/2019",
+      "summary": "Host: Energy Policy Research Group",
+      "highlights": ["Heat decarbonisation pathways to net zero"]
     }
   ],
   "volunteer": [

@@ -1,16 +1,16 @@
 ---
 layout: page
-title: submenus
+title: Groups members
 nav: true
-nav_order: 8
+nav_order: 2
 dropdown: true
 children:
-  - title: publications
-    permalink: /publications/
+  - title: PhD students
+    permalink: /PhDstudents/
   - title: divider
-  - title: projects
-    permalink: /projects/
+  - title: Postdoctoral Fellows
+    permalink: /PostDocs/
   - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: Group Alumni 
+    permalink: /Alumni/
 ---
