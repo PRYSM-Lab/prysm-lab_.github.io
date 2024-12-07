@@ -6,7 +6,7 @@
     "email": "v.charitopoulos@ucl.ac.uk",
     "phone": "(912) 123-4567",
     "url": "https://profiles.ucl.ac.uk/54523-vassilis-charitopoulos",
-    "summary": "Principal Investigator of the PRYSM Lab @ UCL",
+    "summary": "Principal Investigator of the PRYSM Lab @ UCL. Check my detailed CV in the pdf version in this page.",
     "location": {
       "address": "UCL Roberts Building",
       "postalCode": "WC1E 7JE",
@@ -138,46 +138,52 @@
   ],
   "funding": [
     {
-      "name": "International Centre to Centre on Data-driven Global Optimisation",
-      "date": "2022-2026",
-      "issuer": "EPSRC",
-      "url": " ",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Artificial Intelligence powered framework for OnLine production Scheduling",
-      "date": "2022-2026",
-      "issuer": "EPSRC",
-      "url": " ",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Right First Time Manufacture of Pharmaceuticals",
-      "date": "2021-2025",
-      "issuer": "EPSRC",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "MedIcal Oxygen Supply ChaiN DeSIGn And Planning",
-      "date": "2020-2022",
-      "issuer": "EPSRC",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
+      "name": "EPSRC - International Centre to Centre on Data-driven Global Optimisation",
+      "summary": "Project led by Imperial College London (Department of Chemical Engineering, Department of Computing) in collaboration with RWTH Aachen University",
+      "highlights":"",
+      "startDate": "2022",
+      "endDate": "2026",
+      "url": ""
     },
     {
       "name": "Hydrogen Infrastructure Uncertainty Management For Heat Decarbonisation",
-      "date": "2021-2026",
-      "issuer": "EPSRC",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
+      "summary": "Project led UCL (Department of Chemical Engineering) in collaboration with Cambridge Judge Business School",
+      "highlights":"",
+      "startDate": "2021",
+      "endDate": "2026",
+      "url": ""
     },
     {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "Artificial Intelligence powered framework for OnLine production Scheduling",
+      "summary": "Project led University of Manchester (Department of Chemical Engineering)",
+      "highlights":"",
+      "startDate": "2022",
+      "endDate": "2026",
+      "url": ""
+    },
+    {
+      "name": "Right First Time Manufacture of Pharmaceuticals",
+      "summary": "Project led University of Sheffield (Department of Chemical Engineering)",
+      "highlights":"",
+      "startDate": "2021",
+      "endDate": "2025",
+      "url": ""
+    },
+    {
+      "name": "MedIcal Oxygen Supply ChaiN DeSIGn And Planning",
+      "summary": "Project led UCL (Department of Chemical Engineering)",
+      "highlights":"",
+      "startDate": "2020",
+      "endDate": "2021",
+      "url": ""
+    },
+    {
+      "name": "Cambridge University Early Career Fellowship, Isaac Newton Trust",
+      "summary": "Individual research fellowship on data-driven optimisation under uncertainty (declined)",
+      "highlights":"",
+      "startDate": "2019",
+      "endDate": "2019",
+      "url": ""
     }
   ],
   "publications": [
@@ -256,14 +262,30 @@
       "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
   ],
-  "projects": [
+  "affiliations": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Higher Academy of Education",
+      "summary": "Fellow",
+      "highlights": [" "],
+      "startDate": "2022",
+      "endDate": "-",
+      "url": " "
+    }, 
+    {
+      "name": "Instite of Chemical Engineers (IChemE)",
+      "summary": "Member & Committee member of the Computer Aided Process Enngineering Special Interest Group (CAPE SIG)",
+      "highlights": [" "],
+      "startDate": "2021",
+      "endDate": "-",
+      "url": " "
+    },
+    {
+      "name": "American of Chemical Engineers",
+      "summary": "Senior member",
+      "highlights": [" "],
+      "startDate": "2018",
+      "endDate": "-",
+      "url": " "
     }
   ]
 }
