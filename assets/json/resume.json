@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Vassilis M Charitopoulos",
-    "label": "Scientist",
+    "name": "Vassilis M Charitopoulos, FHEA, PhD",
+    "label": "Lecturer in Process Systems Engineering",
     "image": "",
     "email": "v.charitopoulos@ucl.ac.uk",
     "phone": "(912) 123-4567",
     "url": "https://profiles.ucl.ac.uk/54523-vassilis-charitopoulos",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "Principal Investigator of the PRYSM Lab @ UCL",
     "location": {
       "address": "UCL Roberts Building",
       "postalCode": "WC1E 7JE",
@@ -56,59 +56,119 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "University College London, UK",
+      "location": "London, UK",
+      "url": "https://www.ucl.ac.uk/chemical-engineering",
+      "area": "Thesis advisor: Prof Vivek Dua",
+      "studyType": "PhD in Chemical Engineering",
+      "startDate": "2015-09-01",
+      "endDate": "2018-09-01",
+      "score": "",
+      "courses": ["Multiparametric programming & Integration of control with operations"]
+    },
+    {
+      "institution": "National Technical University of Athens, Greece",
+      "location": "Athens, Greece",
+      "url": "https://www.chemeng.ntua.gr/_en",
+      "area": "School of Chemical Engineering",
+      "studyType": "5-year integrated Masters in Chemical Engineering",
+      "startDate": "2010-09-01",
+      "endDate": "2015-09-01",
+      "score": "8.3/10.0",
+      "courses": ["Minor: Process systems optimization"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "IChemE Best Young Researcher Award (Hon.Ment.)",
+      "date": "2022",
+      "awarder": "Institute of Chemical Engineers",
+      "url": " ",
+      "summary": " "
+    }, 
+    {
+      "title": "Exceptional PhD Thesis Award in Computer Aided Process Engineering  (Hon.Ment.)",
+      "date": "2021",
+      "awarder": "European Federation of Chemical Engineering",
+      "url": "",
+      "summary": " "
+    }, 
+    {
+      "title": "Springer Award for outstanding PhD thesis",
+      "date": "2019",
+      "awarder": "Springer International",
+      "url": "",
+      "summary": " "
+    }, 
+    {
+      "title": "Newton award for Best PhD thesis",
+      "date": "2019",
+      "awarder": "UCL",
+      "url": "",
+      "summary": " "
+    }, 
+    {
+      "title": "DAI Best Teaching Demonstrator Award",
+      "date": "2018",
+      "awarder": "UCL Chemical Engineering",
+      "url": "",
+      "summary": " "
+    }, 
+    {
+      "title": "Rookie Prize for best MPhil Thesis",
+      "date": "2017",
+      "awarder": "UCL Chemical Engineering",
+      "url": "",
+      "summary": " "
+    }, 
+    {
+      "title": "Leadership Award in teaching",
+      "date": "2017",
+      "awarder": "UCL Faculty of Engineering Sciences",
+      "url": "",
+      "summary": " "
+    }, 
+    {
+      "title": "Undergraduate Researcher Award",
+      "date": "2015",
+      "awarder": "Thomaideion fund, National Technical University of Athens",
+      "url": "",
+      "summary": " "
     }
   ],
-  "certificates": [
+  "funding": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "International Centre to Centre on Data-driven Global Optimisation",
+      "date": "2022-2026",
+      "issuer": "EPSRC",
+      "url": " ",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Artificial Intelligence powered framework for OnLine production Scheduling",
+      "date": "2022-2026",
+      "issuer": "EPSRC",
+      "url": " ",
       "icon": "fa-solid fa-tag"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
+      "name": "Right First Time Manufacture of Pharmaceuticals",
+      "date": "2021-2025",
+      "issuer": "EPSRC",
       "url": "https://example.com",
       "icon": "fa-solid fa-envelope"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
+      "name": "MedIcal Oxygen Supply ChaiN DeSIGn And Planning",
+      "date": "2020-2022",
+      "issuer": "EPSRC",
       "url": "https://example.com",
       "icon": "fa-solid fa-hashtag"
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
+      "name": "Hydrogen Infrastructure Uncertainty Management For Heat Decarbonisation",
+      "date": "2021-2026",
+      "issuer": "EPSRC",
       "url": "https://example.com",
       "icon": "fa-solid fa-calendar"
     },
@@ -160,7 +220,7 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Greek",
       "fluency": "Native speaker",
       "icon": ""
     },

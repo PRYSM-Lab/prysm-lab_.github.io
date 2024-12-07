@@ -1,4 +1,4 @@
-# Dr Georgios Bounitsis 
+# Dr George Bounitsis 
 
 * Now Senior Software Engineer in Aurora Energy Research (UK) 
 
