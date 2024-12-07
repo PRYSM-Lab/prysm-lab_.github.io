@@ -72,6 +72,8 @@
           {%- endif -%}
         {%- endif -%}
       {%- endfor -%}
+      {% comment %}
+          {% raw %}
       {%- for post in site.posts -%}
         {
           {%- assign title = post.title | escape | strip -%}
@@ -118,6 +120,8 @@
           {%- endfor -%}
         {%- endif -%}
       {%- endfor -%}
+                {% endraw %}
+{% endcomment %}
       {%- if site.socials_in_search -%}
         {%- if site.email -%}
           {
