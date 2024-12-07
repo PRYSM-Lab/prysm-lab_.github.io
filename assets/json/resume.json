@@ -4,9 +4,8 @@
     "label": "Lecturer in Process Systems Engineering",
     "image": "",
     "email": "v.charitopoulos@ucl.ac.uk",
-    "phone": "(912) 123-4567",
-    "url": "https://profiles.ucl.ac.uk/54523-vassilis-charitopoulos",
-    "summary": "Principal Investigator of the PRYSM Lab @ UCL. Check my detailed CV in the pdf version in this page.",
+    "url": "UCL profile<a href='https://profiles.ucl.ac.uk/54523-vassilis-charitopoulos'></a>",
+    "summary": "Principal Investigator of the PRYSM Lab @ UCL.",
     "location": {
       "address": "UCL Roberts Building",
       "postalCode": "WC1E 7JE",
@@ -266,7 +265,6 @@
     {
       "name": "Higher Academy of Education",
       "summary": "Fellow",
-      "highlights": [" "],
       "startDate": "2022",
       "endDate": "-",
       "url": " "
@@ -274,7 +272,6 @@
     {
       "name": "Instite of Chemical Engineers (IChemE)",
       "summary": "Member & Committee member of the Computer Aided Process Enngineering Special Interest Group (CAPE SIG)",
-      "highlights": [" "],
       "startDate": "2021",
       "endDate": "-",
       "url": " "
@@ -282,7 +279,6 @@
     {
       "name": "American of Chemical Engineers",
       "summary": "Senior member",
-      "highlights": [" "],
       "startDate": "2018",
       "endDate": "-",
       "url": " "

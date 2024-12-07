@@ -5,22 +5,20 @@ permalink: /
 subtitle:  PRocess & energY Systems optiMization Lab @UCL
 profile:
   align: right
-  image: prof_pic.jpg
+  image: ucl.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Welcome to the **PR**ocess & energ**Y** **S**ystems opti**M**ization (**PRYSM**) Lab at [UCL](https://www.ucl.ac.uk/chemical-engineering). Our research focuses on computational methods for multiscale systems under uncertainty that arise in the optimization of challenging problems related to chemical, process & energy systems.
+<span style="font-size: 20px;">Welcome to the **PR**ocess & energ**Y** **S**ystems opti**M**ization (**PRYSM**) Lab at [UCL](https://www.ucl.ac.uk/chemical-engineering). Our research focuses on computational optimization under uncertainty & digital methods for challenging problems spanning from net zero energy & chemicals to digital supply chain operations. </span>
 
-HELO HELO Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<span style="font-size: 20px;">Led by [Dr Vassilis Charitopoulos](/al-folio/people/) the lab is within the Department of Chemical Engineering at UCL and affiliated with the [Sargent Centre for Process Systems Engineering](https://www.imperial.ac.uk/process-systems-engineering/) at Imperial College London. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<span style="font-size: 20px;">**Why optimization under uncertainty?** Uncertainty is ubiquitous in decision-making problems across the engineering discipline. 90% of infrastructure projects with value over £1 billion go over budget or over deadline due to improper uncertainty management. Novartis shut down a plant in 2021 due to overestimation in gene therapy demand, while the eminent defossilisation of chemical industry and increasing market uncertainty only underscore the need for systematic treatment of uncertainty. At PRYSM we develop next-generation methods for systematically hedging against uncertainty, with recent application areas including: (i) **net zero hydrogen supply chain planning**, (ii) **digital twins in pharma**, (iii) **process design & control**.  
+
